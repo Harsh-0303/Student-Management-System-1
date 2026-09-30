@@ -253,9 +253,6 @@ def get_rating_distribution():
         session.close()
 
 
-# =========================================
-# DASHBOARD - TOP 10 HIGHEST RATED MOVIES
-# =========================================
 
 def get_highest_rated_movies(limit=10):
 
